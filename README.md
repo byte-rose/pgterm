@@ -2,6 +2,10 @@
 
 **pgterm** is a terminal-based interface (TUI) for PostgreSQL, written in Go. It allows you to connect to a PostgreSQL database, run queries, and browse tables directly from your terminal.
 
+## Demo 
+
+https://github.com/user-attachments/assets/ec57d812-7039-48fc-8eb9-59f01084b05e
+
 ## Features
 
 - **Connection Manager**: Easily connect to any PostgreSQL database.
@@ -38,12 +42,6 @@ Run the application:
 pgterm
 ```
 
-## Screenshots
+## License
 
-### Connection Form
-
-![Connection Modal](assets/connect_db.png)
-
-### Main Interface
-
-![Main Interface](assets/main_ui.png)
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
